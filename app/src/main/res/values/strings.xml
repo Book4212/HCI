@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HCI</string>
+
+    <!-- activity_main -->
+    <string name="font_awesome_google">&#xf0d5; Google</string>
+    <string name="font_awesome_facebook">&#xf09a; Facebook</string>
+    <string name="font_awesome_android_icon">&#xf042;</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <!-- activity_menu -->
+    <string name="button_menu">Menu</string>
+    <string name="botton_tv">TV</string>
+    <string name="botton_digital_tv">DIGITAL TV</string>
+    <string name="botton_audio">AUDIO</string>
+    <string name="botton_vdo">VDO</string>
+    <string name="botton_x_tream">X TREAM</string>
+
+
+
+</resources>
